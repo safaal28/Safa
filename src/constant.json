@@ -1,0 +1,42 @@
+{
+    "experiences": [
+        {
+            "company": "Rogers Communications",
+            "link": "/",
+            "title": "Fullstack Software Developer",
+            "duration": "June 2023 - August 2023", 
+            "desc": [
+                "Lorem ipsum",
+                "Lorem"
+        ]
+        },
+        {
+            "company": "University of Toronto",
+            "link": "/",
+            "title": "Teaching Assistant",
+            "duration": "January 2022 - April 2022", 
+            "desc": [
+                "Lorem ipsum",
+                "Lorem"
+        ]
+        },
+        {
+        "company": "Cognitive Systems Corp.",
+        "link": "/",
+        "title": "Product Development Intern",
+        "duration": "September 2020 - August 2021", 
+        "desc": [
+            "Lorem ipsum",
+            "Lorem"
+        ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Konsensus",
+            "desc": "Lorem Ipsum",
+            "skills": ["React"],
+            "github": "/"
+        }
+    ]
+}
